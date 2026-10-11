@@ -1,0 +1,13 @@
+gradio>=4.44,<6
+langchain>=0.3
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-ollama
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+duckduckgo-search
+reportlab
+python-dotenv
